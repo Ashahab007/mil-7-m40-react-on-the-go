@@ -4,3 +4,9 @@
 
   gap: 20px;
 }
+
+.visited-flags img {
+  width: 150px;
+  height: 100px;
+  margin-left: 10px;
+}

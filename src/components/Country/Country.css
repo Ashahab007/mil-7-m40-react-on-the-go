@@ -3,3 +3,7 @@
   border-radius: 15px;
   padding: 10px;
 }
+
+.country-visited {
+  background-color: aqua;
+}
