@@ -64,3 +64,10 @@ const Countries = ({ responseCountries }) => {
 };
 
 export default Countries;
+
+/****
+ Note: To deploy in netlify 
+ * 1. in terminal type npm run build
+ * 2. A dist folder is created in file explorer
+ * 3. Now drag only the dist folder to netlify website to deploy
+*/
